@@ -1,0 +1,30 @@
+1
+a) git branch branca00
+b) git checkout branca00
+c) git status
+   git branch
+   
+5) git checkout main
+   git status
+   git log
+   L'últim commit de la branca branca00 no aparèix a la branca main.
+
+7) git checkout branca00 
+
+10b) git merge branca00
+
+12 git push
+
+14a) git push -u origin branca01
+
+_________________________________________________________________________________________________________________________________________________________________________________________
+
+RESPOSTES:
+
+6) No es pot veure, perquè les modificacions s'han fet a la branca branca00 i per tant no s'apliquen a la branca main.
+
+7) Si es pot veure, perquè les modificacions s'han fet en aquesta branca (branca00).
+
+12c) Només hi ha la branca main perquè la branca branca00 només ha estat treballada en local i no se n'ha fet cap push, s'ha fet el merge a la branca main i el push a la branca main.
+
+14c) A un commit de distància.
